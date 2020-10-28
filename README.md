@@ -1,8 +1,5 @@
 ### Hello, world! 👋
 
-<!--
-**lucaswarwar/lucaswarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 :round_pushpin: Brasilia, Brazil
 
 I am an economist interested in researching cities :cityscape:, labor markets :briefcase: and inequality :busts_in_silhouette:. I am currently a MSc candidate at [UnB](https://unb.br/) and a Research Assistant at [Ipea](https://github.com/ipeaGIT).
